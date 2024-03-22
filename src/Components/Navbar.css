@@ -1,0 +1,25 @@
+.nav_links a {
+  margin: right 10px;
+}
+
+.carousel-item > img {
+  height: 350px;
+}
+.finish {
+  font-size: 20px;
+  color: yellow;
+}
+.ifinish1 {
+  background-color: rgba(0, 0, 0, 0.635);
+}
+.nav_links1 {
+  background-color: black;
+}
+.nav_links a {
+  text-decoration: none;
+  color: white;
+  margin-right: 7px;
+}
+.mobile p {
+  color: white;
+}

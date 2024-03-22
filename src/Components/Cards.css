@@ -1,0 +1,16 @@
+.img img {
+  height: 190px;
+  width: 160px;
+}
+
+.each_card {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+}
+.date {
+  width: 50%;
+  margin-left: 176px;
+  border-radius: 0px 5px 0px 5px;
+  padding: 5px 10px;
+}

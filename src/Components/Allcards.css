@@ -1,0 +1,13 @@
+.filters {
+  /* height: 300px; */
+  /* width:35%; */
+}
+
+.dropdown-menu show {
+  width: 100% !important;
+}
+
+.cards_main {
+  background-color: white;
+  border-radius: 10px;
+}
